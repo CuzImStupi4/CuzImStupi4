@@ -2,5 +2,5 @@
 
 <div align="center">
   <br>
-  <a href="https://cuzimstupi4.eu"><img align="center" src="https://readme.cuzimstupi4.eu/??"/></a> <br>
+  <a href="https://cuzimstupi4.eu"><img align="center" src="https://readme.godmode.social/??"/></a> <br>
 </div>
