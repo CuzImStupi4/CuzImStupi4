@@ -26,10 +26,9 @@ you might know me from random stuff i do.
 <p align = center>
   <br />
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=cuzimstupi4&theme=dracula">
-</p>
 
 ![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuzimstupi4&show_icons=true&theme=dracula)
-
+</p>
 
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
 <img src="https://custom-icon-badges.herokuapp.com/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
