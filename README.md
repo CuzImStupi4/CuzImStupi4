@@ -1,13 +1,13 @@
-<p align="center"><a href="https://cuzimstupi4.eu"><img width="80%" alt="Hello, I'm Emma. I do open source!" src="./assets/hello.png" /></a></p>
+<p align="center"><a href="https://cuzimstupi4.eu"><img width="60%" alt="Hello, I'm Emma. I do open source!" src="./assets/hello.png" /></a></p>
 
 <div align="center">
 
-<img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br />
+<img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br /> 
 
 <br />
 
 im a developer
-
+</div>
 there is nothing much on here public, hopefully thatll change but most of my current repositories contain private exploits and other stuff im not allowed to reveal.
 
 you might know me from random stuff i do.
