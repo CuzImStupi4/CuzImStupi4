@@ -36,21 +36,6 @@ you might know me from random stuff i do.
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
 <img src="https://custom-icon-badges.herokuapp.com/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" alt="TypeScript">
