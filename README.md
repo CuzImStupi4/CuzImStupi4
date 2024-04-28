@@ -22,13 +22,34 @@ you might know me from random stuff i do.
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
 
 
-<h2>Github stats for nerds</h2>
-<p align = center>
+<h2 align="center">Github stats for nerds </h2>
+
+<p align ="center">
   <br />
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=cuzimstupi4&theme=dracula">
-
-![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuzimstupi4&show_icons=true&theme=dracula)
 </p>
+
+
+<p align ="center">
+  <br />
+  <img src = "https://github-readme-stats.vercel.app/api?username=cuzimstupi4&show_icons=true&theme=dracula">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
 <img src="https://custom-icon-badges.herokuapp.com/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
