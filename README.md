@@ -44,11 +44,13 @@ you might know me from random stuff i do.
 <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express" alt="express.js">
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
 </div>
+<div align="left">
 <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="react">
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3">
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js">
 <img src="https://custom-icon-badges.herokuapp.com/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
+</div>
 
 ## ⚙️ Tools
 
