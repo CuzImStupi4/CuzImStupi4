@@ -2,41 +2,57 @@
 
 <div align="center">
 
-<img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br /> 
+<img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br />
 
 <br />
 
 im a developer
+
 </div>
 there is nothing much on here public, hopefully thatll change but most of my current repositories contain private exploits and other stuff im not allowed to reveal.
 
 you might know me from random stuff i do.
 
-- 💼 [website](https://cuzimstupi4.eu) 
-
-- 📈 [contact](https://cuzimstupi4.eu/contact)
+- 📈 [contact](https://discord.gg/517764829927440396)
 
 - ❤️ 16 years old
 
-
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
 
-
-<h2 align="center">Github stats for nerds </h2>
+<h2 align="center">🎁 Github stats for nerds </h2>
 
 <p align ="center">
   <br />
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=cuzimstupi4&theme=dracula">
 </p>
 
-
 <p align ="center">
   <br />
   <img src = "https://github-readme-stats.vercel.app/api?username=cuzimstupi4&show_icons=true&theme=dracula">
 </p>
 
+<p align ="center">
+  <br />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CuzImStupi4&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</p>
+
+<h2 align="center">🏆 GitHub Trophies </h2>
+
+<p align ="center">
+  <br />
+  <img src = "https://github-profile-trophy.vercel.app/?username=CuzImStupi4&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+</p>
+
+<h2 align="center">👀 Profile View </h2>
+
+<p align ="center">
+  <br />
+  <img src = "https://visitcount.itsvg.in/api?id=CuzImStupi4s&icon=0&color=0">
+</p>
 
 <div align="left">
+
+<h2 align="center">💡 I code with </h2>
 
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
 <img src="https://custom-icon-badges.herokuapp.com/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -52,7 +68,7 @@ you might know me from random stuff i do.
 <img src="https://custom-icon-badges.herokuapp.com/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
 </div>
 
-## ⚙️ Tools
+<h2 align="center">⚙️ Tools </h2>
 
 <div align="left">
 
