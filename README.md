@@ -23,7 +23,7 @@ you might know me from random stuff i do.
 
 
 <div>
-    <img src="/assets/discord.png"></p>
+    <img src="/assets/discord.png" style="float:left; width:42px; height:42px;"></p>
     <h2 align="center">Discord Stats!</h2>
 </div>
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
@@ -52,7 +52,7 @@ you might know me from random stuff i do.
   <img src = "https://github-profile-trophy.vercel.app/?username=CuzImStupi4&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
-<h2 align="center">👀 Profile View </h2>
+<h2 align="center">👀 Profile Views</h2>
 
 <p align ="center">
   <br />
