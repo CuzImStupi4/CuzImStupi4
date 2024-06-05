@@ -13,10 +13,19 @@ there is nothing much on here public, hopefully thatll change but most of my cur
 
 you might know me from random stuff i do.
 
-- 📈 [contact](https://discord.gg/517764829927440396)
 
-- ❤️ 16 years old
+<h2 align="center">💜 Infos about me </h2>
 
+  - 📈 [contact〣sv_cuzimstupi4.lua (discord)](https://discord.gg/517764829927440396)
+  - 📨 [Send me an Email 〣 admin@cuzimstupi4.eu](mailto:admin@cuzimstupi4.eu)
+  - ❤️ 16 years old
+
+
+
+<div>
+    <img src="/assets/discord.png"></p>
+    <h2 align="center">Discord Stats!</h2>
+</div>
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
 
 <h2 align="center">🎁 Github stats for nerds </h2>
