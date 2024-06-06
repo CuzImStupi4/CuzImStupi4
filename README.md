@@ -1,4 +1,4 @@
-<p align="center"><a href="https://cuzimstupi4.eu"><img width="60%" alt="Hello, I'm Emma. I do open source!" src="./assets/hello.png" /></a></p>
+<p align="center"><a href="https://cuzimstupi4.eu"><img width="40%" alt="Hello, I'm Emma. I do open source!" src="./assets/hello.png" /></a></p>
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br />
 
-im a developer
+<h2>im a developer</h2>
 
 </div>
 there is nothing much on here public, hopefully thatll change but most of my current repositories contain private exploits and other stuff im not allowed to reveal.
@@ -14,7 +14,7 @@ there is nothing much on here public, hopefully thatll change but most of my cur
 you might know me from random stuff i do.
 
 
-<h2 align="center">💜 Infos about me </h2>
+<h2 align="center">💜 〣 Infos about me </h2>
 
   - 📈 [Contact 〣 sv_cuzimstupi4.lua (discord)](https://discord.gg/517764829927440396)
   - 📨 [Send me an Email 〣 admin@cuzimstupi4.eu (email)](mailto:admin@cuzimstupi4.eu)
@@ -22,20 +22,29 @@ you might know me from random stuff i do.
 
 
 
-<p style="position: relative; overflow: auto">
+<!-- pls fix this stupid code for the discord icon -->
+<!-- pls fix this stupid code for the discord icon -->
+<!-- pls fix this stupid code for the discord icon -->
+<!-- pls fix this stupid code for the discord icon -->
+<!-- pls fix this stupid code for the discord icon -->
+
+
+
+<!-- <p style="position: relative; overflow: auto">
 <img src="/assets/discord.png"
      alt="discord icon"
      style="float:left; width:42px; height:42px;">
-<h2 align="center">Discord status</h2>
+<h2 align="center">Discord status</h2> -->
 
 <!-- <div>
     <img src="/assets/discord.png" style="float:left; width:42px; height:42px;"></p>
     <h2 align="center">Discord Stats!</h2>
 </div> -->
 
+<h2 align="center">💻 〣 Discord Status</h2>
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
 
-<h2 align="center">🎁 Github stats for nerds </h2>
+<h2 align="center">🎁 〣 Github stats for nerds </h2>
 
 <p align ="center">
   <br />
@@ -49,26 +58,26 @@ you might know me from random stuff i do.
 
 <p align ="center">
   <br />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CuzImStupi4&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cuzimstupi4&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-<h2 align="center">🏆 GitHub Trophies </h2>
+<h2 align="center">🏆 〣 GitHub Trophies </h2>
 
 <p align ="center">
   <br />
-  <img src = "https://github-profile-trophy.vercel.app/?username=CuzImStupi4&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+  <img src = "https://github-profile-trophy.vercel.app/?username=cuzimstupi4&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
-<h2 align="center">👀 Profile Views</h2>
+<h2 align="center">👀 〣 Profile Views</h2>
 
 <p align ="center">
   <br />
-  <img src = "https://visitcount.itsvg.in/api?id=CuzImStupi4s&icon=0&color=0">
+  <img src = "https://visitcount.itsvg.in/api?id=CuzImStupi4&icon=0&color=0">
 </p>
 
 <div align="left">
 
-<h2 align="center">💡 I code with </h2>
+<h2 align="center">💡〣 I code with </h2>
 
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
 <img src="https://custom-icon-badges.herokuapp.com/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -84,7 +93,7 @@ you might know me from random stuff i do.
 <img src="https://custom-icon-badges.herokuapp.com/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
 </div>
 
-<h2 align="center">⚙️ Tools </h2>
+<h2 align="center">⚙️ 〣 Tools </h2>
 
 <div align="left">
 
