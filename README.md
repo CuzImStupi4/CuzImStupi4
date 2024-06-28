@@ -5,7 +5,6 @@
 <img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br />
 
 <br />
-
 <h2>im a developer</h2>
 
 </div>
@@ -14,6 +13,8 @@ there is nothing much on here public, hopefully thatll change but most of my cur
 you might know me from random stuff i do.
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+
 <h2 align="center">💜 〣 Infos about me </h2>
 
   - 📈 [Contact 〣 sv_cuzimstupi4.lua (discord)](https://discord.gg/517764829927440396)
@@ -21,14 +22,7 @@ you might know me from random stuff i do.
   - ❤️ 16 years old
 
 
-
-<!-- pls fix this stupid code for the discord icon -->
-<!-- pls fix this stupid code for the discord icon -->
-<!-- pls fix this stupid code for the discord icon -->
-<!-- pls fix this stupid code for the discord icon -->
-<!-- pls fix this stupid code for the discord icon -->
-
-
+<!-- TODO: fix discord icon>
 
 <!-- <p style="position: relative; overflow: auto">
 <img src="/assets/discord.png"
