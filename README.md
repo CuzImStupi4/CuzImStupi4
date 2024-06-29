@@ -23,10 +23,9 @@ you might know me from random stuff i do.
 
 <h2 align="center">💜 〣 Infos about me </h2>
 
-  - 📈 [Contact 〣 sv_cuzimstupi4.lua (discord)](https://discord.gg/517764829927440396)
+  - 📈 [Contact 〣 cuzimstupi4 (discord)](https://discord.gg/517764829927440396)
   - 📨 [Send me an Email 〣 admin@cuzimstupi4.eu (email)](mailto:admin@cuzimstupi4.eu)
   - ❤️ 16 years old
-
 
 <h2 align="center">💻 〣 Discord Status</h2>
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
