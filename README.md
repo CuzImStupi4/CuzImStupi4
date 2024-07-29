@@ -31,6 +31,8 @@ you might know me from random stuff i do.
   - 📨 [Send me an Email 〣 admin@cuzimstupi4.eu (email)](mailto:admin@cuzimstupi4.eu)
   - ❤️ 16 years old
 
+<img src="./assets/computer.gif">
+
 <!-- <img src="./assets/colored.png"> -->
 
 <h2 align="center">💻 〣 Discord Status</h2>
@@ -200,3 +202,5 @@ you might know me from random stuff i do.
 
 
 </p>
+
+<!-- <img src="./assets/bottom_header.svg"> -->
