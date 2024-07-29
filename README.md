@@ -5,7 +5,7 @@
 
 <h2 align="center"> Thats Ayumi! check that out i write there the most code</h2>
 
-<p align="center"><a href="https://cuzimstupi4.eu"><img width="40%" alt="Hello, I'm Emma. I do open source!" src="./assets/hello.png" /></a></p>
+<p align="center"><a href="https://github.com/cuzimstupi4"><img width="40%" alt="Hello, I'm Emma. I do open source!" src="./assets/hello.png" /></a></p>
 
 <div align="center">
 
