@@ -13,7 +13,7 @@
 <br />
 <h2>im a developer</h2>
 
-<img src="./assets/colored.png">
+<!-- <img src="./assets/colored.png"> -->
 
 </div>
 there is nothing much on here public, hopefully thatll change but most of my current repositories contain private exploits and other stuff im not allowed to reveal.
@@ -23,7 +23,7 @@ you might know me from random stuff i do.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
-<img src="./assets/colored.png">
+<!-- <img src="./assets/colored.png"> -->
 
 <h2 align="center">💜 〣 Infos about me </h2>
 
@@ -31,7 +31,7 @@ you might know me from random stuff i do.
   - 📨 [Send me an Email 〣 admin@cuzimstupi4.eu (email)](mailto:admin@cuzimstupi4.eu)
   - ❤️ 16 years old
 
-<img src="./assets/colored.png">
+<!-- <img src="./assets/colored.png"> -->
 
 <h2 align="center">💻 〣 Discord Status</h2>
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
@@ -63,7 +63,7 @@ you might know me from random stuff i do.
 
 
 <h2 align="center">💻 〣 My favorite tools and technologies </h2>
-<img src="./assets/colored.png">
+<!-- <img src="./assets/colored.png"> -->
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -175,7 +175,7 @@ you might know me from random stuff i do.
 
 <h2 align="center">🎁 〣 Github stats for nerds </h2>
 
-<img src="./assets/colored.png">
+<!-- <img src="./assets/colored.png"> -->
 
 <p align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CuzImStupi4&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%"/><img src="https://github-readme-streak-stats.herokuapp.com?user=CuzImStupi4&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%">
