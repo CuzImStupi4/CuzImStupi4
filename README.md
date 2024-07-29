@@ -203,4 +203,4 @@ you might know me from random stuff i do.
 
 </p>
 
-<!-- <img src="./assets/bottom_header.svg"> -->
+<img src="./assets/bottom_header.svg">
