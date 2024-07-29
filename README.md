@@ -1,3 +1,6 @@
+<!-- <img src="./assets/header.svg"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&&&customColorList=0,2,3,15&section=header&fontAlign=0&fontAlignY=0&reversal=false">
+
 <p align="center"><a href="https://ayumi.tieseler.dev/CuzImStupi4"><img align="center" src="./assets/ayumi.png" width="200px"></a></p>
 
 <h2 align="center"> Thats Ayumi! check that out i write there the most code</h2>
@@ -183,7 +186,7 @@ you might know me from random stuff i do.
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CuzImStupi4&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%"/><img src="https://github-readme-streak-stats.herokuapp.com?user=CuzImStupi4&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%">
 </p>
 <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CuzImStupi4&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CuzImStupi4&bg_color=1A1B1F&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 </p>
 
 
@@ -203,4 +206,5 @@ you might know me from random stuff i do.
 
 </p>
 
-<img src="./assets/bottom_header.svg">
+<!-- <img src="./assets/bottom_header.svg"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&customColorList=0,2,3,15&section=footer&fontAlign=0&fontAlignY=0&reversal=false">
