@@ -183,7 +183,7 @@ you might know me from random stuff i do.
  -->
 
 
-<a href="https://github.com/CuzImStupi4?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=CuzImStupi4&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
+<!-- <a href="https://github.com/CuzImStupi4?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=CuzImStupi4&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a> -->
 
 
 
