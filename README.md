@@ -1,9 +1,9 @@
 <!-- <img src="./assets/header.svg"> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&&&customColorList=0,2,3,15&section=header&fontAlign=0&fontAlignY=0&reversal=false">
 
-<p align="center"><a href="https://ayumi.tieseler.dev/CuzImStupi4"><img align="center" src="./assets/ayumi.png" width="200px"></a></p>
+<!-- <p align="center"><a href="https://ayumi.tieseler.dev/CuzImStupi4"><img align="center" src="./assets/ayumi.png" width="200px"></a></p>
 
-<h2 align="center"> Thats Ayumi! check that out i write there the most code</h2>
+<h2 align="center"> Thats Ayumi! check that out i write there the most code</h2> -->
 
 <p align="center"><a href="https://github.com/cuzimstupi4"><img width="40%" alt="Hello, I'm Emma. I do open source!" src="./assets/hello.png" /></a></p>
 
