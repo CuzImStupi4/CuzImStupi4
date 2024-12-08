@@ -32,7 +32,7 @@ you might know me from random stuff i do.
 
   - 📈 [Contact 〣 cuzimstupi4 (discord)](https://discord.gg/517764829927440396)
   - 📨 [Send me an Email 〣 admin@cuzimstupi4.eu (email)](mailto:admin@cuzimstupi4.eu)
-  - ❤️ 16 years old
+  - ❤️ 17 years old
 
 <img src="./assets/computer.gif">
 
