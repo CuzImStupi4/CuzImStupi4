@@ -1,211 +1,155 @@
-<!-- <img src="./assets/header.svg"> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&&&customColorList=0,2,3,15&section=header&fontAlign=0&fontAlignY=0&reversal=false">
-
-<!-- <p align="center"><a href="https://ayumi.tieseler.dev/CuzImStupi4"><img align="center" src="./assets/ayumi.png" width="200px"></a></p>
-
-<h2 align="center"> Thats Ayumi! check that out i write there the most code</h2> -->
 
 <p align="center"><a href="https://github.com/cuzimstupi4"><img width="40%" alt="Hello, I'm Emma. I do open source!" src="./assets/hello.png" /></a></p>
 
 <div align="center">
-
-
-
-<img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br />
-
-<br />
-<h2>im a developer</h2>
-
-<!-- <img src="./assets/colored.png"> -->
-
+    <img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br />
+    <h2>I'm a developer</h2>
 </div>
-there is nothing much on here public, hopefully thatll change but most of my current repositories contain private exploits and other stuff im not allowed to reveal.
 
-you might know me from random stuff i do.
-
+<p>There is not much public content here, hopefully, that’ll change, but most of my current repositories contain private exploits and other stuff I’m not allowed to reveal.</p>
+<p>You might know me from random stuff I do.</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
-<!-- <img src="./assets/colored.png"> -->
-
 <h2 align="center">💜 〣 Infos about me </h2>
 
-  - 📈 [Contact 〣 cuzimstupi4 (discord)](https://discord.gg/517764829927440396)
-  - 📨 [Send me an Email 〣 admin@cuzimstupi4.eu (email)](mailto:admin@cuzimstupi4.eu)
-  - ❤️ 17 years old
+<ul>
+  <li>📈 [Contact 〣 cuzimstupi4 (discord)](https://discord.gg/517764829927440396)</li>
+  <li>📧 [Send me an Email 〣 admin@cuzimstupi4.eu (email)](mailto:admin@cuzimstupi4.eu)</li>
+  <li>❤️ 17 years old</li>
+</ul>
 
 <img src="./assets/computer.gif">
-
-<!-- <img src="./assets/colored.png"> -->
 
 <h2 align="center">💻 〣 Discord Status</h2>
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
 
-<!-- <h2 align="center">🎁 〣 Github stats for nerds </h2> -->
-
-<!-- <p align ="center">
-  <br />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=cuzimstupi4&theme=dracula">
-</p>
-
-<p align ="center">
-  <br />
-  <img src = "https://github-readme-stats.vercel.app/api?username=cuzimstupi4&show_icons=true&theme=dracula">
-</p>
-
-<p align ="center">
-  <br />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cuzimstupi4&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p> -->
-
 <h2 align="center">🏆 〣 GitHub Trophies </h2>
-
-<p align ="center">
-  <br />
-  <img src = "https://github-profile-trophy.vercel.app/?username=cuzimstupi4&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cuzimstupi4&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
-<div align="left">
-
 
 <h2 align="center">💻 〣 My favorite tools and technologies </h2>
-<!-- <img src="./assets/colored.png"> -->
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-        <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-        <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="icon" />
-      <br>C Sharp
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    <!-- <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td> -->
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="" height="" alt="icon" />
-      <br>Git
-    </td>
-        <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="Git" />
-      <br>Prettier
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jQuery" />
-      <br>jQuery
-    </td>
-  </tr>
- <tr>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <table align="center">
+    <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
-      <br>Nodejs
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
       </td>
-          </td>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nodejs" />
-      <br>Nginx
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
       </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
-      <br>VSCode
-    </td>
-        </td>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Nodejs" />
-      <br>Docker
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <br>Java
       </td>
-      
- </tr>
-</table>
-<br><br>
-
-
-
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+        <br>C Sharp
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
+        <br>Webpack
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <br>TypeScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
+        <br>Github
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
+        <br>Prettier
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" />
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="65" height="65" />
+        <br>jQuery
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+        <br>Nginx
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
+        <br>VSCode
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
+      </td>
+    </tr>
+  </table>
 </div>
 
-<h2 align="center">🎁 〣 Github stats for nerds </h2>
-
-<!-- <img src="./assets/colored.png"> -->
-
+<h2 align="center">🎁 〣 GitHub Stats</h2>
+<p align="center">
+  <a href="https://github.com/cuzimstupi4"><img src="https://github-readme-streak-stats.herokuapp.com?user=CuzImStupi4&background=1A1B1F&border=1A1B1F&stroke=D858EB&ring=6157BC&fire=D50000&currStreakNum=08E3EB&sideNums=8D4C98&currStreakLabel=D680EB&sideLabels=8D4C98&dates=8D4C98&excludeDaysLabel=EB00EA" alt="GitHub Streak" width="75%"/></a>
+</p>
 
 <p align="center">
-<a href="https://github.com/cuzimstupi4"><img src="https://github-readme-streak-stats.herokuapp.com?user=CuzImStupi4&background=1A1B1F&border=1A1B1F&stroke=D858EB&ring=6157BC&fire=D50000&currStreakNum=08E3EB&sideNums=8D4C98&currStreakLabel=D680EB&sideLabels=8D4C98&dates=8D4C98&excludeDaysLabel=EB00EA" alt="GitHub Streak" width="75%"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CuzImStupi4&bg_color=1A1B1F&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="Activity graph">
+</p>
 
-<p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CuzImStupi4&bg_color=1A1B1F&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+<h2 align="center">🤔 〣 How Did I Travel Back to 1970 in Git?</h2>
+<p>
+  Curious about my journey to 1970 in Git's timeline? Check out my repository 
+  <a href="https://github.com/CuzImStupi4/lolll">lolll</a>, where I was able to make a script that automates commits across various years, reaching as far back as 1970. 
+  This exploits a bug (or an feature) in Git that allows altering commit timestamps. Using commands like:
+</p>
+<pre>
+<code>git commit --date="Tue Jan 2 23:00:00 2006 +0300" -m "Changing date back to 2006"</code>
+</pre>
+<p>
+  I was able to manipulate commit dates.
+  Dive into the repo for more details!
 </p>
 
 
+<img src="./assets/commit.jpg" alt="Commited 45 Years ago">
 
-
-<p align="center">
-
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CuzImmStupi4&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%"/>
- -->
-
-
-<!-- <a href="https://github.com/CuzImStupi4?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=CuzImStupi4&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a> -->
-
-
-
-
-</p>
-
-<!-- <img src="./assets/bottom_header.svg"> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&customColorList=0,2,3,15&section=footer&fontAlign=0&fontAlignY=0&reversal=false">
