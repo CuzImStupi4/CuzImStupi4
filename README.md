@@ -14,11 +14,9 @@
 
 <h2 align="center">💜 〣 Infos about me </h2>
 
-<ul>
-  <li>📈 [Contact 〣 cuzimstupi4 (discord)](https://discord.gg/517764829927440396)</li>
-  <li>📧 [Send me an Email 〣 admin@cuzimstupi4.eu (email)](mailto:admin@cuzimstupi4.eu)</li>
-  <li>❤️ 17 years old</li>
-</ul>
+- 📈 [Contact 〣 cuzimstupi4 (Discord)](https://discord.gg/517764829927440396)
+- 📧 [Send me an Email 〣 admin@cuzimstupi4.eu](mailto:admin@cuzimstupi4.eu)
+- ❤️ 17 years old
 
 <img src="./assets/computer.gif">
 
