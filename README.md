@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&&&customColorList=0,2,3,15&section=header&fontAlign=0&fontAlignY=0&reversal=false">
 
-<p align="center"><a href="https://github.com/cuzimstupi4"><img width="40%" alt="Hello, I'm Emma. I do open source!" src="./assets/hello.png" /></a></p>
-
 <div align="center">
     <img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br />
     <h2>I'm a developer</h2>
