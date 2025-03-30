@@ -149,3 +149,7 @@
 <img src="./assets/commit.jpg" alt="Commited 45 Years ago">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&customColorList=0,2,3,15&section=footer&fontAlign=0&fontAlignY=0&reversal=false">
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Thanks+for+your+data.)
+![](https://hit.yhype.me/github/profile?account_id=151248139)
