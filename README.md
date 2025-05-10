@@ -22,11 +22,8 @@
 
 <p align="center"><a href="https://discord.com/users/1349476964024451162"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/1349476964024451162?bg=302c33"></a></p>
 
-
 <p align="center">old and lost discord account</p>
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
-
-
 
 <h2 align="center">🏆 〣 GitHub Trophies </h2>
 <p align="center">
@@ -40,6 +37,10 @@
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
         <br>React
+      </td>
+            <td align="center" width="96">
+        <img src="./assets/lua.svg" alt="Lua" width="65" height="65" />
+        <br>Lua
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
