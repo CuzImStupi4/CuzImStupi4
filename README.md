@@ -12,14 +12,21 @@
 
 <h2 align="center">💜 〣 Infos about me </h2>
 
-- 📈 [Contact 〣 cuzimstupi4 (Discord)](https://discord.gg/517764829927440396)
+- 📈 [Contact 〣 cuzimstupi4. (Discord)](https://discord.gg/1349476964024451162)
 - 📧 [Send me an Email 〣 admin@cuzimstupi4.eu](mailto:admin@cuzimstupi4.eu)
 - ❤️ 17 years old
 
 <img src="./assets/computer.gif">
 
 <h2 align="center">💻 〣 Discord Status</h2>
+
+<p align="center"><a href="https://discord.com/users/1349476964024451162"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/1349476964024451162?bg=302c33"></a></p>
+
+
+- old and lost discord account
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
+
+
 
 <h2 align="center">🏆 〣 GitHub Trophies </h2>
 <p align="center">
@@ -142,13 +149,12 @@
 </pre>
 <p>
   I was able to manipulate commit dates.
-  Dive into the repo for more details!
+  View the repo for more details!
 </p>
-
 
 <img src="./assets/commit.jpg" alt="Commited 45 Years ago">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&customColorList=0,2,3,15&section=footer&fontAlign=0&fontAlignY=0&reversal=false">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Thanks+for+your+data.)](https://git.io/typing-svg)
 ![](https://hit.yhype.me/github/profile?account_id=151248139)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&customColorList=0,2,3,15&section=footer&fontAlign=0&fontAlignY=0&reversal=false">
