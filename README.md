@@ -23,7 +23,7 @@
 <p align="center"><a href="https://discord.com/users/1349476964024451162"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/1349476964024451162?bg=302c33"></a></p>
 
 
-- old and lost discord account
+<p align="center">old and lost discord account</p>
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
 
 
