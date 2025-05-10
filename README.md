@@ -38,7 +38,7 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
         <br>React
       </td>
-            <td align="center" width="96">
+      <td align="center" width="96">
         <img src="./assets/lua.svg" alt="Lua" width="65" height="65" />
         <br>Lua
       </td>
@@ -83,6 +83,10 @@
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
         <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="./assets/gitkraken.svg" alt="GitKraken" width="65" height="65" />
+        <br>GitKraken
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
