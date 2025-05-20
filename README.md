@@ -148,8 +148,8 @@
 
 <table>
   <tr>
-    <td align="center"><img src="./assets/ddos/1.png" alt="left img small" width="300"></td>
-    <td align="center"><img src="./assets/ddos/2.png" alt="right img small" width="300"></td>
+    <td align="center"><img src="./assets/ddos/1.png" alt="left img small" width="350"></td>
+    <td align="center"><img src="./assets/ddos/2.png" alt="right img small" width="350"></td>
   </tr>
 </table>
 
