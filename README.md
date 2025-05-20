@@ -136,22 +136,22 @@
 
 <h2 align="center">⚙️ 〣 Security of Websites</h2>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 12px; max-width: 800px; margin: 0 auto;">
-  <p style="font-size: 16px; line-height: 1.6;">
-    I enjoy securing websites using Cloudflare. WAF feel free to test your Layer 4 (L4) tool here, if you manage to get more than <strong>260 million</strong> requests, your result will be posted here as well!
-    <a href="https://sunv.love" target="_blank" style="text-decoration: none; color: #0077cc;">sunv.love</a>
-  </p>
-  <img src="./assets/ddos/left.png" alt="shield icon" style="height: 50px;" />
-</div>
-
 <p align="center">
-  <img style="margin-top: 20px;"src="./assets/ddos/bottom.png" alt="bottom img big">
+  I enjoy securing websites using Cloudflare. WAF feel free to test your Layer 4 (L4) tool here, if you manage to get more than <strong>260 million</strong> requests, your result will be posted here as well!
+  <a href="https://sunv.love" target="_blank">sunv.love</a>
+    <img src="./assets/ddos/left.png" alt="small 2tb ddos" width="50" style="margin-left: 10px;">
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-    <img src="./assets/ddos/1.png" alt="left img small" width="300px" />
-    <img src="./assets/ddos/2.png" alt="right img small" width="300px" />
-</div>
+<p align="center">
+  <img src="./assets/ddos/bottom.png" alt="bottom img big">
+</p>
+
+<table>
+  <tr>
+    <td align="center"><img src="./assets/ddos/1.png" alt="left img small" width="300"></td>
+    <td align="center"><img src="./assets/ddos/2.png" alt="right img small" width="300"></td>
+  </tr>
+</table>
 
 
 <h2 align="center">🎁 〣 GitHub Stats</h2>
