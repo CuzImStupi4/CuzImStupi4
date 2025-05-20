@@ -134,6 +134,26 @@
   </table>
 </div>
 
+<h2 align="center">⚙️ 〣 Security of Websites</h2>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 12px; max-width: 800px; margin: 0 auto;">
+  <p style="font-size: 16px; line-height: 1.6;">
+    I enjoy securing websites using Cloudflare. WAF feel free to test your Layer 4 (L4) tool here, if you manage to get more than <strong>260 million</strong> requests, your result will be posted here as well!
+    <a href="https://sunv.love" target="_blank" style="text-decoration: none; color: #0077cc;">sunv.love</a>
+  </p>
+  <img src="./assets/ddos/left.png" alt="shield icon" style="height: 50px;" />
+</div>
+
+<p align="center">
+  <img style="margin-top: 20px;"src="./assets/ddos/bottom.png" alt="bottom img big">
+</p>
+
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+    <img src="./assets/ddos/1.png" alt="left img small" width="300px" />
+    <img src="./assets/ddos/2.png" alt="right img small" width="300px" />
+</div>
+
+
 <h2 align="center">🎁 〣 GitHub Stats</h2>
 <!-- <p align="center">
   <a href="https://github.com/cuzimstupi4"><img src="https://github-readme-streak-stats.herokuapp.com?user=CuzImStupi4&background=1A1B1F&border=1A1B1F&stroke=D858EB&ring=6157BC&fire=D50000&currStreakNum=08E3EB&sideNums=8D4C98&currStreakLabel=D680EB&sideLabels=8D4C98&dates=8D4C98&excludeDaysLabel=EB00EA" alt="GitHub Streak" width="75%"/></a>
