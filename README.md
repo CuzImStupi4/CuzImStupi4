@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br />
-    <h2>I'm a developer</h2>
+    <h2>I'm a developer <small>(at least i think so)</small></h2>
 </div>
 
 <p>There is not much public content here, hopefully, that’ll change, but most of my current repositories contain private exploits and other stuff I’m not allowed to reveal.</p>
