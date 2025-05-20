@@ -22,7 +22,7 @@
 
 <p align="center"><a href="https://discord.com/users/1349476964024451162"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/1349476964024451162?bg=302c33"></a></p>
 
-<p align="center">old and lost discord account</p>
+<p align="center">(old and lost discord account)</p>
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
 
 <h2 align="center">🏆 〣 GitHub Trophies </h2>
@@ -159,6 +159,11 @@
     </tr>
     <tr> 
       <td align="center"><img src="./assets/ddos/5.png" alt="img small" width="350"></td>
+      <td align="center"><img src="./assets/ddos/viv-absolutely-it-should.png" alt="img small" width="350"></td>
+    </tr>
+        <tr> 
+      <td align="center"><img src="./assets/ddos/6.png" alt="img small" width="350"></td>
+      <td align="center"><img src="./assets/ddos/7.png" alt="img small" width="350"></td>
     </tr>
 </table>
 
