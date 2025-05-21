@@ -161,9 +161,12 @@
       <td align="center"><img src="./assets/ddos/5.png" alt="img small" width="350"></td>
       <td align="center"><img src="./assets/ddos/viv-absolutely-it-should.png" alt="img small" width="350"></td>
     </tr>
-        <tr> 
+    <tr> 
       <td align="center"><img src="./assets/ddos/6.png" alt="img small" width="350"></td>
       <td align="center"><img src="./assets/ddos/7.png" alt="img small" width="350"></td>
+    </tr>
+      <tr> 
+      <td align="center"><img src="./assets/ddos/8.png" alt="img small" width="350"></td>
     </tr>
 </table>
 
