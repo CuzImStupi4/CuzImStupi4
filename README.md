@@ -12,6 +12,7 @@
 
 <h2 align="center">💜 〣 Infos about me </h2>
 
+- 💻 [Check out the Portfolio](https://cuzimstupi4.eu)
 - 📈 [Contact 〣 cuzimstupi4. (Discord)](https://discord.gg/1349476964024451162)
 - 📧 [Send me an Email 〣 admin@cuzimstupi4.eu](mailto:admin@cuzimstupi4.eu)
 - ❤️ Age 〣 17 years old
