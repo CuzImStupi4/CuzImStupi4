@@ -150,24 +150,26 @@
 <h2 align="center">Gallery of DDoS/DoS attacks:</h2>
 <table>
   <tr>
-    <td align="center"><img src="./assets/ddos/1.png" alt="img small" width="350"></td>
+    <td align="center"><img src="./assets/ddos/9.png" alt="img small" width="350"></td>
     <td align="center"><img src="./assets/ddos/2.png" alt="img small" width="350"></td>
   </tr>
   <tr>
+      <td align="center"><img src="./assets/ddos/1.png" alt="img small" width="350"></td>
       <td align="center"><img src="./assets/ddos/3.png" alt="img small" width="350"></td>
-      <td align="center"><img src="./assets/ddos/4.png" alt="img small" width="350"></td>
     </tr>
     <tr> 
-      <td align="center"><img src="./assets/ddos/5.png" alt="img small" width="350"></td>
+      <td align="center"><img src="./assets/ddos/4.png" alt="img small" width="350"></td>
       <td align="center"><img src="./assets/ddos/viv-absolutely-it-should.png" alt="img small" width="350"></td>
     </tr>
     <tr> 
+      <td align="center"><img src="./assets/ddos/5.png" alt="img small" width="350"></td>
       <td align="center"><img src="./assets/ddos/6.png" alt="img small" width="350"></td>
-      <td align="center"><img src="./assets/ddos/7.png" alt="img small" width="350"></td>
     </tr>
       <tr> 
+      <td align="center"><img src="./assets/ddos/7.png" alt="img small" width="350"></td>
       <td align="center"><img src="./assets/ddos/8.png" alt="img small" width="350"></td>
     </tr>
+
 </table>
 
 <h2 align="center">🎁 〣 GitHub Stats</h2>
