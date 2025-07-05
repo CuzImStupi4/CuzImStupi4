@@ -169,6 +169,9 @@
       <td align="center"><img src="./assets/ddos/7.png" alt="img small" width="350"></td>
       <td align="center"><img src="./assets/ddos/8.png" alt="img small" width="350"></td>
     </tr>
+          <tr> 
+      <td align="center"><img src="./assets/ddos/geht-nicht-down.png" alt="img small" width="350"></td>
+    </tr>
 
 </table>
 
