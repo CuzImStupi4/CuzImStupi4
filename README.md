@@ -7,6 +7,7 @@
 
 <p>There is not much public content here, hopefully, that’ll change, but most of my current repositories contain private exploits and other stuff I’m not allowed to reveal.</p>
 <p>You might know me from random stuff I do.</p>
+<p>funfact: geographically i'm from Africa, but politically i'm from Europe. </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
