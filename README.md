@@ -174,10 +174,13 @@
       <td align="center"><img src="./assets/ddos/geht-nicht-down.png" alt="img small" width="350"></td>
       <td align="center"><img src="./assets/ddos/10.png" alt="img small" width="350"></td>
     </tr>
-          <tr> 
-      <td align="center"><img src="./assets/ddos/das-krass.png" alt="img small" width="350"></td>
-      <td align="center"><img src="./assets/ddos/11.png" alt="img small" width="350"></td>
-    </tr>
+      <tr> 
+        <td align="center"><img src="./assets/ddos/das-krass.png" alt="img small" width="350"></td>
+        <td align="center"><img src="./assets/ddos/11.png" alt="img small" width="350"></td>
+      </tr>
+      <tr> 
+        <td align="center"><img src="./assets/ddos/12.png" alt="img small" width="350"></td>
+      </tr>
 
 </table>
 
