@@ -15,7 +15,7 @@
 
 - 📈 [Contact 〣 cuzimstupi4. (Discord)](https://discord.gg/1349476964024451162)
 - 📧 [Send me an Email 〣 admin@cuzimstupi4.eu](mailto:admin@cuzimstupi4.eu)
-- ❤️ Age 〣 17 years old
+- ❤️ Age 〣 18 years old
 
 <img src="./assets/computer.gif">
 
