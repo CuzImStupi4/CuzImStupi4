@@ -26,10 +26,10 @@
 <p align="center">(old and lost discord account)</p>
 <p align="center"><a href="https://discord.com/users/517764829927440396"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/517764829927440396?bg=302c33"></a></p>
 
-<h2 align="center">🏆 〣 GitHub Trophies </h2>
+<!--<h2 align="center">🏆 〣 GitHub Trophies </h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cuzimstupi4&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-</p>
+</p> -->
 
 <h2 align="center">💻 〣 My favorite tools and technologies </h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
