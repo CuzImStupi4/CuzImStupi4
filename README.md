@@ -180,6 +180,7 @@
       </tr>
       <tr> 
         <td align="center"><img src="./assets/ddos/12.png" alt="img small" width="350"></td>
+        <td align="center"><img src="./assets/ddos/13.png" alt="img small" width="350"></td>
       </tr>
 
 </table>
