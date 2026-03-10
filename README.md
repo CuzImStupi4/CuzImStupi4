@@ -69,6 +69,36 @@
     </tr>
     <tr>
       <td align="center" width="96">
+        <img src="./assets/icons/postgresql.svg" alt="PostgreSQL" width="65" height="65" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="./assets/icons/nodejs.svg" alt="Node.js" width="65" height="65" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+        <br>Nginx
+      </td>
+      <!-- <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
+        <br>VSCode
+      </td> -->
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+        <br>Kubernetes
+      </td>
+    </tr>
+        <tr>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
         <br>Github
       </td>
@@ -112,36 +142,6 @@
         <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="65" height="65" />
         <br>jQuery
       </td> -->
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="./assets/icons/postgresql.svg" alt="PostgreSQL" width="65" height="65" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="./assets/icons/nodejs.svg" alt="Node.js" width="65" height="65" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-        <br>Nginx
-      </td>
-      <!-- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
-        <br>VSCode
-      </td> -->
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-        <br>Kubernetes
-      </td>
     </tr>
   </table>
 </div>
