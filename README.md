@@ -96,6 +96,10 @@
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
         <br>Kubernetes
       </td>
+            <td align="center" width="96">
+        <img src="./assets/icons/podman.svg" alt="Kubernetes" width="65" height="65" />
+        <br>Podman
+      </td>
     </tr>
         <tr>
       <td align="center" width="96">
@@ -113,6 +117,15 @@
       <td align="center" width="96">
         <img src="./assets/icons/kotlin.svg" alt="Kotlin" width="65" height="65" />
         <br>Kotlin
+      </td>
+      <td align="center" width="96">
+        <img src="./assets/icons/endeavouros.svg" alt="EndeavourOS" width="65" height="65" />
+        <br>EndeavourOS
+      </td>
+      </td>
+            <td align="center" width="96">
+        <img src="./assets/icons/zen-browser.svg" alt="Zen browser" width="65" height="65" />
+        <br>Zen Browser
       </td>
       <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
