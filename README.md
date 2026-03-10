@@ -9,12 +9,12 @@
 <p>You might know me from random stuff I do.</p>
 <p>funfact: geographically i'm from Africa, but politically i'm from Europe. </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg) -->
 
 <h2 align="center">💜 〣 Infos about me </h2>
 
-- 📈 [Contact 〣 cuzimstupi4. (Discord)](https://discord.gg/1349476964024451162)
-- 📧 [Send me an Email 〣 admin@cuzimstupi4.eu](mailto:admin@cuzimstupi4.eu)
+- 📈 [Discord 〣 cuzimstupi4.](https://discord.gg/1349476964024451162)
+- 📧 Email 〣 admin[at]githubname.eu
 - ❤️ Age 〣 18 years old
 
 <img src="./assets/computer.gif">
@@ -34,46 +34,37 @@
 <h2 align="center">💻 〣 My favorite tools and technologies </h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="./assets/lua.svg" alt="Lua" width="65" height="65" />
-        <br>Lua
-      </td>
-      <td align="center" width="96">
+      <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
         <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        <br>Java
-      </td>
+      </td> -->
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        <br>C++
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-        <br>C Sharp
+        <img src="./assets/icons/lua.svg" alt="Lua" width="65" height="65" />
+        <br>Lua
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
         <br>Webpack
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
+        <img src="./assets/icons/nextjs.svg" alt="NextJS" width="65" height="65" />
+        <br>NextJS
+      </td>
+      <td align="center" width="96">
+        <img src="./assets/icons/tailwindcss.svg" alt="Tailwind" width="65" height="65" />
+        <br>Tailwind
       </td>
     </tr>
     <tr>
@@ -82,54 +73,74 @@
         <br>Github
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
+        <img src="./assets/icons/git.svg" alt="Git" width="65" height="65" />
         <br>Git
       </td>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="./assets/icons/kotlin.svg" alt="Kotlin" width="65" height="65" />
+        <br>Kotlin
+      </td>
+      <!-- <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+        <br>C Sharp
+      </td> -->
+      <!-- <td align="center" width="96">
         <img src="./assets/gitkraken.svg" alt="GitKraken" width="65" height="65" />
         <br>GitKraken
-      </td>
-      <td align="center" width="96">
+      </td> -->
+      <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
         <br>Prettier
-      </td>
-      <td align="center" width="96">
+      </td> -->
+      <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
         <br>HTML5
-      </td>
-      <td align="center" width="96">
+      </td> -->
+      <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" />
         <br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="96">
+      </td> -->
+      <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="65" height="65" />
         <br>jQuery
-      </td>
+      </td> -->
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
-        <br>MongoDB
+        <img src="./assets/icons/postgresql.svg" alt="PostgreSQL" width="65" height="65" />
+        <br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="./assets/icons/nodejs.svg" alt="Node.js" width="65" height="65" />
         <br>Node.js
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
         <br>Nginx
       </td>
-      <td align="center" width="96">
+      <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
         <br>VSCode
-      </td>
+      </td> -->
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
         <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+        <br>Kubernetes
       </td>
     </tr>
   </table>
@@ -138,7 +149,7 @@
 <h2 align="center">⚙️ 〣 Security of Websites</h2>
 
 <p align="center">
-  I enjoy securing websites using Cloudflare WAF rules feel free to test your Layer 7 (L7) tool here, if you manage to get more than <strong>260 million</strong> requests, your result will may be posted here as #1! try it on
+  I enjoy securing websites using Cloudflare WAF rules, if you manage to get more than <strong>260 million</strong> requests, your result will may be posted here as #1! try it on
   <a href="https://sunv.love" target="_blank">sunv.love</a>
     <img src="./assets/ddos/left.png" alt="small 2tb ddos" width="100" style="margin-left: 10px;">
 </p>
@@ -193,7 +204,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CuzImStupi4&bg_color=1A1B1F&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="Activity graph">
 </p>
-
+<!-- 
 <h2 align="center">🤔 〣 How Did I Travel Back to 1970 in Git?</h2>
 <p>
   Curious about my journey to 1970 in Git's timeline? Check out my repository 
@@ -206,11 +217,12 @@
 <p>
   I was able to manipulate commit dates.
   View the repo for more details!
-</p>
+</p> -->
+<!-- 
+<img src="./assets/commit.jpg" alt="Commited 45 Years ago"> -->
 
-<img src="./assets/commit.jpg" alt="Commited 45 Years ago">
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Thanks+for+your+data.)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Thanks+for+your+data.)](https://git.io/typing-svg)
 ![](https://hit.yhype.me/github/profile?account_id=151248139)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&customColorList=0,2,3,15&section=footer&fontAlign=0&fontAlignY=0&reversal=false">
