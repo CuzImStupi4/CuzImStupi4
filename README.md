@@ -123,9 +123,14 @@
         <br>EndeavourOS
       </td>
       </td>
-            <td align="center" width="96">
+      <td align="center" width="96">
         <img src="./assets/icons/zen-browser.svg" alt="Zen browser" width="65" height="65" />
         <br>Zen Browser
+      </td>
+            </td>
+      <td align="center" width="96">
+        <img src="./assets/icons/canarias.svg" alt="canarias" width="65" height="65" />
+        <br>Canarias (922)
       </td>
       <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
