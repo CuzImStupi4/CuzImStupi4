@@ -14,7 +14,7 @@
 <h2 align="center">💜 〣 Infos about me </h2>
 
 - 📈 [Discord 〣 cuzimstupi4.](https://discord.gg/1349476964024451162)
-- 📧 Email 〣 admin[at]githubname.eu
+- 📧 Email 〣 admin[at]cuzimstupi4[.]eu
 - ❤️ Age 〣 18 years old
 
 <img src="./assets/computer.gif">
